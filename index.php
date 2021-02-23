@@ -1,5 +1,5 @@
 <?php
 
-include_once("lodestar.html");
+include_once("index.html");
 
 ?>
